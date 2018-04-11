@@ -1,0 +1,15 @@
+.header .navbar-custom{
+	background: #fff;
+	border: none;
+	padding: 10px 0;
+	margin-bottom: 0;
+}
+
+.header .navbar-custom .navbar-brand span{
+	color: #00e0d0;
+	font-weight: bold;
+}
+
+.header .navbar-collapse-custom a{
+	color: #353535;
+}
